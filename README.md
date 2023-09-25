@@ -31,6 +31,4 @@ Full-stack developer, merging design and tech for exceptional web solutions. Pro
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
                     </picture>
-                    </a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/daganoo"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=daganoo&stroke=14b8a6&background=181824&ring=84cc16&fire=84cc16&currStreakNum=14b8a6&currStreakLabel=84cc16&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
+                    </a></p>
