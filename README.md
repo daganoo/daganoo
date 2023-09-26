@@ -1,7 +1,7 @@
 Hey 👋 My name is Marouane
 ================================================================================================================================
 
-Full-stack developer
+Full-stack developer | 💻 Crafting Digital Experiences | 🌐 Problem Solver & Innovator
 --------------------
 
 Full-stack developer, merging design and tech for exceptional web solutions. Proficient in HTML, CSS, JavaScript, and react. and also php frameworks
