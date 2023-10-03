@@ -4,7 +4,7 @@ Hey 👋 My name is Marouane
 Full-stack developer | 💻 Crafting Digital Experiences | 🌐 Problem Solver & Innovator
 --------------------
 
-Full-stack developer, merging design and tech for exceptional web solutions. Proficient in HTML, CSS, JavaScript, and react. and also php frameworks
+Full-stack student  developer, merging design and tech for exceptional web solutions. Proficient in HTML, CSS, JavaScript, and react. and also php frameworks
 
 * ✉️  You can contact me at [marwan.dagana@gmail.com](mailto:marwan.dagana@gmail.com)
 * 🚀  I'm currently working on [Real Estate ewbsite NEW DOOR](http:// )
