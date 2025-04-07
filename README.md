@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-stack developer
 --------------------
 
-Full-stack developer, merging design and tech for exceptional web solutions. Proficient in HTML, CSS, JavaScript, and react. and also php frameworks
+Full-stack developer, merging design and tech for exceptional web solutions. and also php frameworks
 
 * ✉️  You can contact me at [marwan.dagana@gmail.com](mailto:marwan.dagana@gmail.com)
 * 🚀  I'm currently working on [Daganoo Coffee Shop](https://dev-daganoo-or-coffee.pantheonsite.io/ )
